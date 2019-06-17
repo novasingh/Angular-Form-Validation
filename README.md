@@ -1,10 +1,17 @@
-# Validation
+# Angular Form Validation
+
+Live Example Check link https://novasingh.com/files/Angular%208/FormValidation/index.html
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+
+To use this project  to download and clone the project and open the Terminal in linux and cmd in window and go to project folder and  type ( npm install ) Command in terminal/cmd  to install npm modules then type type ng serve to run this project
+ng serve --port 4200
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Code scaffolding
 
